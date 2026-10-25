@@ -1,0 +1,45 @@
+{
+  "id": "marcemarce-interiores",
+  "name": "MarceMarce Interiores",
+  "sector": "Marcenaria, móveis planeados e decoração",
+  "whatsapp": "244932534000",
+  "locationLabel": "Viana · Luanda Sul · Angola",
+  "coverage": "Angola",
+  "hours": "Seg–Sáb · 08h00–17h00",
+  "services": [
+    {
+      "id": "cozinha",
+      "label": "Cozinha por medida",
+      "detail": "Armários e soluções de cozinha personalizadas"
+    },
+    {
+      "id": "roupeiro",
+      "label": "Roupeiro",
+      "detail": "Roupeiros e arrumação por medida"
+    },
+    {
+      "id": "sala",
+      "label": "Móvel de sala",
+      "detail": "Móveis de TV, estantes e soluções para sala"
+    },
+    {
+      "id": "comercial",
+      "label": "Escritório / mobiliário comercial",
+      "detail": "Mobiliário para empresas e espaços comerciais"
+    },
+    {
+      "id": "outro",
+      "label": "Outro móvel por medida",
+      "detail": "Descreva o que pretende produzir"
+    },
+    {
+      "id": "explorar",
+      "label": "Ainda estou a explorar opções",
+      "detail": "Quero conhecer possibilidades e receber orientação"
+    }
+  ],
+  "pricing": "Orçamento personalizado",
+  "measurement": "Mediante agendamento",
+  "manufacturingAndInstallation": true,
+  "privacyNotice": "As informações fornecidas serão usadas para compreender e responder ao seu pedido. Evite incluir dados sensíveis."
+}
